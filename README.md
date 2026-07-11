@@ -8,37 +8,25 @@
 
 ---
 
-### 💜 About Me
-
-```
-const yogita = {
-  role: "CSE student who ships things instead of just talking about them",
-  currently_building: "AI-powered security tools + civic tech that actually matters",
-  certs: ["CEH", "ISEA Cyber Hygiene Practitioner (MeitY)"],
-  milestone: "GATE CSE 2026 Qualified 🎯",
-  obsessed_with: ["breaking things to understand them", "clean UI", "aviation incident reports ✈️"],
-  vibe: "sharp, a little chaotic, gets it done anyway"
-};
-```
-
-- 🛠️ I build at the intersection of **security, full stack, and AI** — not because it sounds cool, but because that's genuinely where the interesting problems live
+- 🛠️ I'm currently building [![React](https://img.shields.io/badge/-React-FF69B4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/-Node.js-C71585?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![AI](https://img.shields.io/badge/-AI%2FML-FF1493?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org) powered security and civic-tech tools
+- 📚 I'm currently learning [![RAG](https://img.shields.io/badge/-RAG%20%2F%20Vector%20DBs-DB7093?style=flat-square)]() [![LangChain](https://img.shields.io/badge/-LangChain-C71585?style=flat-square)]() deeper agentic AI patterns
+- 🔐 I work using [![CEH](https://img.shields.io/badge/-CEH%20Certified-FF69B4?style=flat-square&logo=hackthebox&logoColor=white)]() [![Git](https://img.shields.io/badge/-Git-DB7093?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![VS Code](https://img.shields.io/badge/-VS%20Code-FF1493?style=flat-square&logo=visualstudiocode&logoColor=white)]()
+- 🎯 Ask me about [![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF69B4?style=flat-square)]() [![MERN](https://img.shields.io/badge/-MERN%20Stack-C71585?style=flat-square&logo=react&logoColor=white)]() [![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-DB7093?style=flat-square)]()
 - 🏆 3rd place @ HackForge 2.0 (144 teams, 498 students) — built a 3D digital twin of my university in 24 hours with tech I'd never touched before
-- ✈️ Weirdly obsessed with plane crash investigations, autothrottle systems, and confirmation bias — don't get me started
-- 💃 When I'm not coding: dancing, badminton, table tennis, or doodling
+- ✈️ Random fact: weirdly obsessed with plane crash investigations, autothrottle systems, and confirmation bias
 
 ---
 
-### 🧩 Tech Stack
+## 🎯 Core Competencies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,py,html,css,git,github,vscode,figma&theme=dark" />
-</p>
+**🌐 Full-Stack Development**
+`React` `Node.js` `Express` `MongoDB` `REST APIs` `Vite`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-CEH%20Certified-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MERN%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+**🔐 Cybersecurity**
+`CEH Certified` `ISEA Cyber Hygiene Practitioner (MeitY)` `IDS/NDR Systems` `MITRE ATT&CK Mapping`
+
+**🤖 AI / ML**
+`IsolationForest` `Groq / Llama-3.3-70B` `Gemini API` `Prompt Engineering`
 
 ---
 
@@ -81,6 +69,14 @@ MERN job portal with AI resume analyser.
 
 ---
 
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,py,html,css,git,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -101,11 +97,11 @@ MERN job portal with AI resume analyser.
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:yogita2005singh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yogita-singh-ys"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YScoder123too"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:yogita2005singh@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yogita-singh-ys"><img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/YScoder123too"><img src="https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YScoder123too&label=Profile%20Views&color=8A2BE2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YScoder123too&label=Profile%20Views&color=FF69B4&style=flat" />
 </p>
