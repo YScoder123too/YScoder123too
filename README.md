@@ -1,11 +1,9 @@
-<h1 align="center">Hey, I'm Yogita 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Enthusiast+(CEH+Certified);Building+AI-powered+security+tools;GATE+CSE+2026+Qualified" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Yogita!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+(CEH+Certified);Building+AI-powered+security+tools;GATE+CSE+2026+Qualified;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </p>
 
 ---
@@ -86,20 +84,16 @@ MERN job portal with AI resume analyser.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YScoder123too&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YScoder123too&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YScoder123too&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=fff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YScoder123too&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=fff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YScoder123too&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=YScoder123too&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YScoder123too&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YScoder123too&theme=radical&hide_border=true" />
 </p>
 
 ---
