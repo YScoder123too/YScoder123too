@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+(CEH+Certified);Building+AI-powered+security+tools;GATE+CSE+2026+Qualified;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300">
-</p>
-
 ---
 
 ### 💜 About Me
